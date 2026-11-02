@@ -1,2 +1,1 @@
-just a short little program on the intro to monte carlo modelling portion of my course
-. Simulates efficiency of 10 wind turbines over the span of 24 hours 
+some projects i've worked on for my computational tools module at uni
